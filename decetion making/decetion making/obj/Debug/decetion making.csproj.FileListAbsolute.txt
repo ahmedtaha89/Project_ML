@@ -1,0 +1,34 @@
+E:\decition making 2023\decetion making\decetion making\bin\Debug\decetion making.exe.config
+E:\decition making 2023\decetion making\decetion making\bin\Debug\decetion making.exe
+E:\decition making 2023\decetion making\decetion making\bin\Debug\decetion making.pdb
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.csprojResolveAssemblyReference.cache
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion_making.Form1.resources
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion_making.Properties.Resources.resources
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.csproj.GenerateResource.Cache
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.exe
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion making.pdb
+E:\decition making 2023\decetion making\decetion making\obj\Debug\decetion_making.re.resources
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\bin\Debug\decetion making.exe.config
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\bin\Debug\decetion making.exe
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\bin\Debug\decetion making.pdb
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion_making.Form1.resources
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion_making.Properties.Resources.resources
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion_making.re.resources
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion making.exe
+C:\Users\Dell\Desktop\decetion making\decetion making\decetion making\obj\Debug\decetion making.pdb
+E:\decetion making\decetion making\decetion making\bin\Debug\decetion making.exe.config
+E:\decetion making\decetion making\decetion making\bin\Debug\decetion making.exe
+E:\decetion making\decetion making\decetion making\bin\Debug\decetion making.pdb
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.AssemblyReference.cache
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.SuggestedBindingRedirects.cache
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion_making.Form1.resources
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion_making.Properties.Resources.resources
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion_making.re.resources
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.GenerateResource.cache
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion making.csproj.CoreCompileInputs.cache
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion making.exe
+E:\decetion making\decetion making\decetion making\obj\Debug\decetion making.pdb
